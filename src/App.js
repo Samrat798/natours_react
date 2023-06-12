@@ -1,5 +1,6 @@
 import "./App.scss";
 import About from "./components/About";
+import Booking from "./components/Booking";
 import Features from "./components/Features";
 import Header from "./components/Header";
 import Story from "./components/Story";
@@ -14,6 +15,7 @@ function App() {
         <Features />
         <Tour />
         <Story />
+        <Booking />
       </main>
     </>
   );

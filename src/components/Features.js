@@ -7,11 +7,11 @@ const Features = () => {
         <div className="row">
           <div className="col-1-of-4">
             <div className="feature-box">
-              <i class="feature-box__icon bi bi-globe2"></i>
+              <i className="feature-box__icon bi bi-globe2"></i>
               <h3 className="heading-tertiary u-margin-bottom-2">
                 Explore the world
               </h3>
-              <p class="feature-box__text">
+              <p className="feature-box__text">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Aperiam, ipsum sapiente aspernatur.
               </p>
@@ -19,11 +19,11 @@ const Features = () => {
           </div>
           <div className="col-1-of-4">
             <div className="feature-box">
-              <i class="feature-box__icon bi bi-compass"></i>
+              <i className="feature-box__icon bi bi-compass"></i>
               <h3 className="heading-tertiary u-margin-bottom-2">
                 Meet nature
               </h3>
-              <p class="feature-box__text">
+              <p className="feature-box__text">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Aperiam, ipsum sapiente aspernatur.
               </p>
@@ -31,11 +31,11 @@ const Features = () => {
           </div>
           <div className="col-1-of-4">
             <div className="feature-box">
-              <i class="feature-box__icon bi bi-map"></i>
+              <i className="feature-box__icon bi bi-map"></i>
               <h3 className="heading-tertiary u-margin-bottom-2">
                 Find your way
               </h3>
-              <p class="feature-box__text">
+              <p className="feature-box__text">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Aperiam, ipsum sapiente aspernatur.
               </p>
@@ -43,11 +43,11 @@ const Features = () => {
           </div>
           <div className="col-1-of-4">
             <div className="feature-box">
-              <i class="feature-box__icon bi bi-heart"></i>
+              <i className="feature-box__icon bi bi-heart"></i>
               <h3 className="heading-tertiary u-margin-bottom-2">
                 Live a healthier life
               </h3>
-              <p class="feature-box__text">
+              <p className="feature-box__text">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Aperiam, ipsum sapiente aspernatur.
               </p>
